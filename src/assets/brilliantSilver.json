@@ -1,0 +1,35 @@
+{
+  "images": [
+    "assets/tablet/spritesheets/altimaSedan/2018/trims/sv25/brilliantSilver-0.png"
+  ],
+
+  "framerate": 20,
+  "frames": [
+    [1, 1, 747, 233, 0, -139, -145],
+    [1, 236, 558, 289, 0, -232, -128],
+    [561, 236, 394, 318, 0, -315, -93],
+    [1, 527, 546, 270, 0, -240, -147],
+    [549, 556, 402, 295, 0, -311, -124],
+    [1, 799, 540, 266, 0, -243, -132],
+    [543, 853, 402, 284, 0, -311, -120],
+    [1, 1067, 537, 251, 0, -244, -146],
+    [1, 1320, 714, 217, 0, -154, -160]
+  ],
+
+  "animations": {
+    "brilliantSilver05": { "frames": [0] },
+    "brilliantSilver04": { "frames": [1] },
+    "brilliantSilver09": { "frames": [2] },
+    "brilliantSilver08": { "frames": [3] },
+    "brilliantSilver07": { "frames": [4] },
+    "brilliantSilver06": { "frames": [5] },
+    "brilliantSilver03": { "frames": [6] },
+    "brilliantSilver02": { "frames": [7] },
+    "brilliantSilver01": { "frames": [8] }
+  },
+
+  "texturepacker": [
+    "SmartUpdateHash: $TexturePacker:SmartUpdate:411859aef7e1d99f8a57d27068924d23:2e76799f19dcf628e8e11e870eb8c151:a39bee45d5065517e72597f3ba141c7d$",
+    "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+  ]
+}
